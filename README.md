@@ -30,3 +30,6 @@ It's a Free, Open Source and Simple implementation of a Intranet to companies.
     - [ ] Create external link to jobs
         - [ ] Guests can apply to Jobs
         - [ ] Generate this links with affiliate to users (users win points or money, jobs applied)
+    - [ ] Create api endpoints to apps
+        - This can used by frontend to create a custom dashboard
+        - Create simples tests end to end to this endpoints
